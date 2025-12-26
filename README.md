@@ -1,2 +1,3 @@
-# ai-ad-variation-generator
-Christian DeGobbi Assessment
+Whisker & Paws – AI Ad Variation Generator
+Submitted by: Christian DeGobbi
+Date: [DEC2025]
